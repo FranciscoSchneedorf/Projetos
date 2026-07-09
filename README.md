@@ -60,6 +60,7 @@ Este repositório também funciona como um portfólio de aprendizado, mostrando 
 Caso queira entrar em contato, tirar alguma dúvida ou acompanhar meus projetos:
 
 **GitHub:** [FranciscoSchneedorf](https://github.com/FranciscoSchneedorf)
+
 **Email:** francisco.leite@sou.unifal-mg.edu.br
 
 ---
