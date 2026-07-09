@@ -1,0 +1,11 @@
+# Executáveis gerados
+*.exe
+
+# Pastas de saída/output
+output/
+outputs/
+**/output/
+**/outputs/
+
+# Arquivos temporários do VS Code
+.vscode/
