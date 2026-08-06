@@ -40,6 +40,7 @@ Algumas das tecnologias e ferramentas presentes neste repositório:
 - C++
 - HTML
 - JavaScript
+- CSS
 - Git
 - GitHub
 - Visual Studio Code
@@ -51,6 +52,7 @@ Alguns projetos presentes neste repositório incluem:
 - Processamento de imagens PGM;
 - Exercícios de programação em C;
 - Exercícios de programação em C++;
+- Desenvolvimento de landing page 
 - Projetos acadêmicos desenvolvidos durante a faculdade.
 
 ## 🎯 Objetivo
