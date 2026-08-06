@@ -38,6 +38,8 @@ Algumas das tecnologias e ferramentas presentes neste repositório:
 
 - C
 - C++
+- HTML
+- JavaScript
 - Git
 - GitHub
 - Visual Studio Code
