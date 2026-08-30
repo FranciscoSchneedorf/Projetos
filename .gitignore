@@ -1,0 +1,11 @@
+# Repositório antigo clonado localmente
+trabalho-pgm/
+
+# Executáveis
+*.exe
+
+# Pastas de saída
+output/
+outputs/
+**/output/
+**/outputs/
